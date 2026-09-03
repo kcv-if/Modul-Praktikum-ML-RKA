@@ -41,16 +41,16 @@ Materi praktikum mencakup berbagai paradigma dan algoritma machine learning, mul
 
 ```text
 Modul-ML-Praktikum/
-├── Tugas_KNN/
-├── Tugas_NaiveBayes&LogReg/
-├── Tugas_DecisionTree/
-├── Tugas_SVM&ANN/
-├── Tugas_Regression/
-├── Tugas_K-MeansClustering/
-├── Tugas_HierarchicalClustering/
-├── Tugas_DBSCAN_BIRCH_EM/
-├── Tugas_DeepLearning(CNN)/
-└── Tugas_ReinforcementLearning/
+├── 1.Tugas_KNN/
+├── 2.Tugas_NaiveBayes&LogReg/
+├── 3.Tugas_DecisionTree/ (Coming Soon)
+├── 4.Tugas_SVM&ANN/ (Coming Soon)
+├── 5.Tugas_Regression/ (Coming Soon)
+├── 6.Tugas_K-MeansClustering/ (Coming Soon)
+├── 7.Tugas_HierarchicalClustering/ (Coming Soon)
+├── 8.Tugas_DBSCAN_BIRCH_EM/ (Coming Soon)
+├── 9.Tugas_DeepLearning(CNN)/ (Coming Soon)
+└── 10.Tugas_ReinforcementLearning/ (Coming Soon)
 ```
 
 Setiap folder berisi materi dan/atau notebook yang diperlukan untuk menyelesaikan tugas praktikum pada topik terkait.
@@ -68,7 +68,7 @@ Supervised learning merupakan paradigma machine learning yang menggunakan data b
 Folder:
 
 ```text
-Tugas_KNN/
+1.Tugas_KNN/
 ```
 
 Praktikum ini berfokus pada implementasi algoritma **K-Nearest Neighbors (KNN)** untuk menyelesaikan permasalahan klasifikasi.
@@ -89,7 +89,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_NaiveBayes&LogReg/
+2.Tugas_NaiveBayes&LogReg/
 ```
 
 Praktikum ini membahas dua algoritma klasifikasi, yaitu **Naive Bayes** dan **Logistic Regression**.
@@ -110,7 +110,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_DecisionTree/
+3.Tugas_DecisionTree/
 ```
 
 Praktikum ini berfokus pada algoritma **Decision Tree** untuk klasifikasi dan/atau prediksi.
@@ -132,7 +132,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_SVM&ANN/
+4.Tugas_SVM&ANN/
 ```
 
 Praktikum ini membahas **Support Vector Machine (SVM)** dan **Artificial Neural Network (ANN)** sebagai algoritma untuk menyelesaikan permasalahan klasifikasi.
@@ -154,7 +154,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_Regression/
+5.Tugas_Regression/
 ```
 
 Praktikum ini berfokus pada permasalahan **regression**, yaitu memprediksi nilai target yang bersifat kontinu.
@@ -180,7 +180,7 @@ Unsupervised learning merupakan paradigma machine learning yang bekerja dengan d
 Folder:
 
 ```text
-Tugas_K-MeansClustering/
+6.Tugas_K-MeansClustering/
 ```
 
 Praktikum ini membahas algoritma **K-Means Clustering** untuk mengelompokkan data berdasarkan kemiripan karakteristik.
@@ -202,7 +202,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_HierarchicalClustering/
+7.Tugas_HierarchicalClustering/
 ```
 
 Praktikum ini membahas **Hierarchical Clustering** untuk membentuk struktur pengelompokan data secara bertingkat.
@@ -223,7 +223,7 @@ Konsep utama yang dipraktikkan meliputi:
 Folder:
 
 ```text
-Tugas_DBSCAN_BIRCH_EM/
+8.Tugas_DBSCAN_BIRCH_EM/
 ```
 
 Praktikum ini membahas beberapa algoritma clustering dengan pendekatan yang berbeda, yaitu **DBSCAN**, **BIRCH**, dan **Expectation-Maximization (EM)**.
@@ -248,7 +248,7 @@ Deep learning merupakan subbidang machine learning yang menggunakan jaringan sar
 Folder:
 
 ```text
-Tugas_DeepLearning(CNN)/
+9.Tugas_DeepLearning(CNN)/
 ```
 
 Praktikum ini berfokus pada implementasi **Convolutional Neural Network (CNN)** untuk menyelesaikan permasalahan berbasis citra.
@@ -276,7 +276,7 @@ Reinforcement learning merupakan paradigma machine learning di mana sebuah agent
 Folder:
 
 ```text
-Tugas_ReinforcementLearning/
+10.Tugas_ReinforcementLearning/
 ```
 
 Praktikum ini memperkenalkan konsep dasar **Reinforcement Learning** melalui interaksi antara agent dan environment.
@@ -320,7 +320,7 @@ Dalam mengerjakan setiap tugas praktikum, mahasiswa diharapkan:
   * Cathleen Gracia
   * Daniel Adhitthana
   * Nixon Castroman
-  
+
 * 2026
   * Jeremy Mattathias Mboe
   * Jason Kumarkono
